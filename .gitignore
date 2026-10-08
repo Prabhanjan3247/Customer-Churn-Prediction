@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Streamlit
+.streamlit/
+streamlit_cache/
+.streamlit_cache/
+
+# Tableau
+*.twbx.bak
+.Tableau*
+Tableau_temp/
+
+# MySQL
+*.bak
+*.dump
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Output files
+churn_output.txt
+*.log
+
+# Environment variables
+.env
+.env.local
+*.secrets
